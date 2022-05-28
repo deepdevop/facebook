@@ -1,1 +1,6 @@
 normal text file
+<<<<<<< HEAD
+=======
+am updating this line in uat branch
+testing for stash
+>>>>>>> c4da665 (up2date)
